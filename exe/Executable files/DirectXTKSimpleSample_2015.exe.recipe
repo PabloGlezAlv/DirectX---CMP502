@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\DOF_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\lightNormal_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\lightNormal_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\particle_cs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\particle_gs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\particle_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\particle_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\sand_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\sand_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\skybox_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\skybox_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\waves_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\waves_ps.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

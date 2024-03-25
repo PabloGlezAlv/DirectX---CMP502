@@ -1,0 +1,13 @@
+C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.vcxproj.CopyComplete
+C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\Bin\Desktop_2015\x64\Debug\xapobaseredist.pdb
+C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.pdb
+C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.dll
+C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.vcxproj.CopyComplete
+C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\Bin\Desktop_2015\x64\Debug\xapobaseredist.pdb
+C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.pdb
+C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\GonzalezPablo_2301715_CMP502\source\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.dll
